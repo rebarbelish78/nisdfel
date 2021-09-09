@@ -1,1 +1,1 @@
-{"open": 1, "url": "https:\/\/cfg4.com"}
+{"open": 0, "url": "https:\/\/cfg4.com"}
